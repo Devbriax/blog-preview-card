@@ -1,0 +1,35 @@
+/*********************** MAIN-STYLES ***********************/
+@import url("https: //fonts.google.com/specimen/Figtree");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Figtree', sans-serif;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  border: 2px solid black;
+  width: 300px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  box-shadow: hsl(0, 0%, 7%) 1.25px 1.25px, hsl(0, 0%, 7%) 2.5px 2.5px, hsl(0, 0%, 7%) 3.75px 3.75px, hsl(0, 0%, 7%) 5px 5px, hsl(0, 0%, 7%) 6.25px 6.25px;
+  margin-top: 2em;
+  padding: 1em;
+}
+
+.top-img {}
+
+.top-img img {
+  width: 100%;
+  border-radius: 8px;
+}
