@@ -9,7 +9,7 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
+### Primary 
 
 - Yellow: hsl(47, 88%, 63%)
 
