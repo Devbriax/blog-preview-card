@@ -27,5 +27,9 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Figtree](https://fonts.google.com/specimen/Figtree)
+- font-family: 'Figtree', sans-serif;
 - Weights: 600, 800
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600&display=swap');
+</style>
