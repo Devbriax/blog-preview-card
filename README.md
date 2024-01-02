@@ -24,14 +24,14 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 - This blog preview card and get it looking as close to the design as possible
 
 ### Screenshot
-(https://)
+(./assets/images/blog-screenshot.png)
 
 
 ### Links
 - Solution URL: 
-[Add solution URL here](https://your-solution-url.com) - Github
+[Add solution URL here](https://github.com/Devbriax/blog-preview-card)
 - Live Site URL: 
-[Add live site URL here](https://your-live-site-url.com) - Hosting Provider 
+[Add live site URL here](https://creative-devbriax.netlify.app/) 
 
 
 ## My process
@@ -60,8 +60,7 @@ These could be concepts you're still not completely comfortable with or techniqu
 
 
 ### Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@DevBmabaso97](https://www.frontendmentor.io/profile/DevBmabaso97)
 
 
 
