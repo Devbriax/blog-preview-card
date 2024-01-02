@@ -24,7 +24,7 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 - This blog preview card and get it looking as close to the design as possible
 
 ### Screenshot
-(.assets/images/blog-screenshot.png)
+(blog-preview-card/assets/images/blog-screenshot.png)
 
 
 ### Links
