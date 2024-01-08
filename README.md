@@ -7,7 +7,6 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 
 - [Overview](#overview)
   - [The Brief](#the-brief)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
