@@ -84,7 +84,7 @@ body {
 
 /**** END-MAIN-STYLES ****/
 
-/**** END-MAIN-STYLES ****/
+/**** FOOTER-STYLES ****/
 footer {
   padding-top: 5px;
   text-align: center;
@@ -102,40 +102,29 @@ footer {
   color: hsl(228, 45%, 44%);
 }
 
-/**** END-MAIN-STYLES ****/
+/**** END-FOOTER-STYLES ****/
+
+
 
 /**** MEDIA QUERY STARTS HERE ****/
+/*** Mobile First ***/
 
 @media only screen and (max-width:375px) {
-
-
-
   .main-container {
     width: 100%;
-    height: 100vh;
+    padding-top: 2em;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 55px;
   }
 
   .card-container {
     border: 2px solid black;
-    width: 90%;
+    width: 280px;
   }
-
-  .top-img {
-    padding: 10px 10px 5px 10px;
-  }
-
-  .top-img img {
-    height: 100%;
-  }
-
-  .copy-text {
-    padding: 0px 25px;
-  }
-
-  .publish-content-box {
-    padding: 10px 25px;
-  }
-
 }
+
+@media only screen and (max-width:1440px) {}
+
 
 /**** MEDIA QUERY ENDS HERE ****/
