@@ -23,9 +23,9 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 
 ### Links
 - Solution URL: 
-[Add solution URL here](https://github.com/Devbriax/blog-preview-card)
+(https://github.com/Devbriax/blog-preview-card)
 - Live Site URL: 
-[Add live site URL here](https://creative-devbriax.netlify.app/) 
+(https://creative-devbriax.netlify.app/) 
 
 
 ## My process
@@ -48,7 +48,7 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 
 
 ### Author
-- Frontend Mentor - [@DevBmabaso97](https://www.frontendmentor.io/profile/DevBmabaso97)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/DevBmabaso97)
 
 
 
