@@ -23,7 +23,7 @@ This is a solution to the[Blog preview card challenge on Frontend Mentor]
 
 ### Links
 - Solution URL: 
-(https://github.com/Devbriax/blog-preview-card)
+(https://devbriax.github.io/blog-preview-card/)
 - Live Site URL: 
 (https://creative-devbriax.netlify.app/) 
 
